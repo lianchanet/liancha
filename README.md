@@ -83,6 +83,17 @@ https://liancha.net
 
 ---
 
+## 📚 更多说明
+
+- [USDT 地址查询教程](docs/usdt-address-query.md)
+- [TRX 地址查询教程](docs/trx-address-query.md)
+- [钱包地址交易明细查询教程](docs/wallet-address-lookup.md)
+- [地址收支统计工具说明](docs/address-income-expense-statistics.md)
+- [批量查询钱包余额说明](docs/batch-wallet-balance-query.md)
+- [区块链地址查询常见问题 FAQ](docs/blockchain-address-query-faq.md)
+
+---
+
 ## 📌 为什么选择链查？
 
 很多用户在查询链上记录时，会直接使用区块浏览器。但区块浏览器更偏向展示原始数据，对于日常查账、到账确认、收支统计和批量查询来说，使用门槛相对较高。
