@@ -91,7 +91,7 @@ https://liancha.net
 - [地址收支统计工具说明](docs/address-income-expense-statistics.md)
 - [批量查询钱包余额说明](docs/batch-wallet-balance-query.md)
 - [区块链地址查询常见问题 FAQ](docs/blockchain-address-query-faq.md)
-
+- [商家如何核对 USDT 收款是否到账](docs/merchant-usdt-receipt-check.md)
 ---
 
 ## 📌 为什么选择链查？
