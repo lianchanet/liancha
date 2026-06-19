@@ -92,6 +92,7 @@ https://liancha.net
 - [批量查询钱包余额说明](docs/batch-wallet-balance-query.md)
 - [区块链地址查询常见问题 FAQ](docs/blockchain-address-query-faq.md)
 - [商家如何核对 USDT 收款是否到账](docs/merchant-usdt-receipt-check.md)
+- [客服如何协助用户查询钱包地址交易明细](docs/customer-service-wallet-lookup.md)
 ---
 
 ## 📌 为什么选择链查？
